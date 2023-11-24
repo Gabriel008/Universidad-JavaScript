@@ -1,0 +1,26 @@
+Lenguajes compilados vs Interpretados
+
+-Un lenguaje compilado son convertidos en su totalidad a codigo maquina,
+y así la computadora ejecuta el codigo.
+
+-Un lenguaje interpretado ejecuta linea a linea el programa.
+------------------------------------------------------------
+Compilado
+codigo fuente -> compilador -> Codigo maquina -> Salida
+------------------------------------------------------------
+VS
+------------------------------------------------------------
+Interpretado
+codigo fuente -> Interprete -> Salida
+------------------------------------------------------------
+
+Ejemplo de lenguajes compilados vs Interpretados
+
+
+COMPILADOS		VS		Interpretados
+- C						- JavaScript
+- C++					- Python
+- Java					- Ruby
+- C#					etc...
+etc...
+

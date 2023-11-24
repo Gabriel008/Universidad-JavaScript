@@ -1,0 +1,26 @@
+
+Cap 4 - Instalacion Visual Studio Code
+
+revisar
+https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap/learn/lecture/23775166#overview
+
+(En caso de tener problema con el tema oscuros)
+Engrane>color Theme> Light+
+---------------------------------------------------------
+
+Cap 5 - Extenciones Visual Studio Code
+
+Extenciones para trabajar con JavaScript
+-Prettier - Code (Para dar formatico al codigo)
+-Brackert Pair Colorization toggler (Para identificar donde abren y cierran las llaves)
+-Quokka.js (Nos permite visualizar el codigo sin necesidad de ejecutarla)
+-Quokka status (Facilita el uso de la extencion de Quokka)
+---------------------------------------------------------
+
+Cap 6 - Instalacion Node.js para JavaScript
+
+download Nodejs en google
+LTS-> Version estable *** (usar este)
+Current -> Version mas actual
+todo por default y siguiente
+

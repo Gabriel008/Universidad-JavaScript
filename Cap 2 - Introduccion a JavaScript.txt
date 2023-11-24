@@ -1,0 +1,15 @@
+Introduccion a JavaScript
+
+-Lenguaje de programacion par desarrollo web junto con html y css
+
+-Sin embargo, No se utiliza para el desarrollo de interfaces web (frontend),
+sino que se utiliza para el desarrollo del lado del servidor (backend), e 
+incluso en aplicaciones de escritorio JavaScript a evolucionado bastante por
+lo que se utiliza en multiples contextos.
+
+-Por ello existen muchas tecnologias, extenciones, librerias, framework creadas
+con JavaScript , como:
+NodeJS, React, Angular, TypeScript, etc.
+
+-JavaScript es un lenguaje orientado a objetos (Utilizan clases y objetos) 
+para desarrolar todas sus caracteristicas. 
