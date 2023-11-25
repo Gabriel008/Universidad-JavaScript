@@ -1,0 +1,7 @@
+Tipos de datos 
+
+Number      -> valores numericos Ej: 10, -40, 3.9, -15.66
+String      -> Almacena cadenas de caracteres Ej: "Hola", 'Adios', ´Saludar´ (Backtick)
+Boolean     -> Almacena un valor lógico Ej: true ó false
+Null        -> Asusencia de la referencia de un objeto Ej. Null
+Undefined   -> Ausencia de valor Ej: undefined

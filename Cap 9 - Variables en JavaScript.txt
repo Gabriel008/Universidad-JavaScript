@@ -1,0 +1,11 @@
+Que es una variable?
+una variable nos permite almacenr los datos de nuestros programas
+
+se compone de 
+-Nombre
+-Valor almacenado (tipo de dato)
+-Direccion de memoria
+
+Ejemplo:
+var miVariable;
+let miOtraVariable=10;

@@ -1,0 +1,40 @@
+Identificadores - Nombres de variables
+
+Regla de nombres:
+
+-Debe comenzar con:
+    -Una letra (A-Z o a-z) como buena practica comenzar con minuscula (camel case)
+    -Un signo de Dolar ($)
+    -Un guin bajo(_)
+
+-Los siguientes caracteres siguiente pueden ser:
+    -Letras (A-Z o a-z) 
+    -Digitos
+    -Guines bajo(_) (snake case)
+    Signo de Dolar ($)
+
+Ej. let nombre; o let miVariable1;     
+
+
+JavaScript es sensible a mayusculas y minusculas
+Ej: miNombre != minombre
+
+JavaScript utiliza la notacion de altas y bajas para los nombres de las variables
+Ej: miVariable ✔       mi_variable✘
+                        MiVariable✘
+
+-------------------------------------------------------------------------------------------
+
+Comentarios en JS
+-Los comentarios son ignorados en la ejecucion del programas
+-Se utilizan para explicar el codigo o para evitar ejecutar parte del codigo
+
+Ej:
+
+//Comentario de una sola lines
+
+/*
+    Comentario
+    de varias
+    lineas
+*/

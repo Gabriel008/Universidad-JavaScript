@@ -1,0 +1,11 @@
+
+Nota: Problemas con la extensión de Quokka
+Hola, si la extensión de Quokka les funcionó correctamente pueden omitir este artículo.
+
+Si por alguna razón no funciona la extension de quokka en su equipo, no se preocupen, todo el código se puede ejecutar directamente desde un navegador web. De preferencia deben instalar google chrome:
+
+https://www.google.com/chrome
+
+Una vez que lo instalen vayan a la Sección 21: Manejo del DOM HTML con JavaScript, de este mismo curso, y revises los primeros videos de esta sección, con esos videos verán cómo pueden agregar código JavaScript a una página HTML y desde allí ejecutar su código de la misma manera que con la extensión de Quokka, sin embargo la extensión de Quokka la hemos utilizado para simplificar este proceso, pero si por alguna razón no funciona pueden hacer todas las prácticas en una página HTML y agregar el tag de script y dentro de este tag agregar el mismo código que se ve en cada lección, así podrán avanzar en su curso sin problemas.
+
+Saludos
