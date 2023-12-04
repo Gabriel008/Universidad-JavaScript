@@ -1,0 +1,20 @@
+//cap 30 Sentencia if else
+
+/*
+    sintaxis
+
+    if(condicion_booleana){
+        Si es verdadero se ejecuta este bloque de codigo
+    }else{
+        Si es falso se ejecuta este bloque de codigo
+    }
+*/
+
+let miNumero = 0;
+//Revisar si el numero es positivo
+
+if (miNumero > 0) {
+  console.log(`Valor positivo: ${miNumero}`);
+} else {
+  console.log(`Valor cero o negativo ${miNumero}`);
+}

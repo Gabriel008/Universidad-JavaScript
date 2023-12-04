@@ -1,0 +1,19 @@
+//Cap 27 - Ejemplo de valor dentro de rango
+/*
+Valor dentro del rango
+
+Valores No aceptados-------0-----------------Valores Aceptados-----------------5-------Valores No aceptados
+                           |                                                   |
+                           Valor minimo                                        Valor maximo
+
+*/
+
+let minimo = 0,
+  maximo = 5;
+
+//Valor para saber si esta dentro de rango
+let dato = 3;
+
+//Revisamos si esta dentro de rango
+let dentroRango = dato >= minimo && dato <= maximo;
+console.log('valor dentro rango: ', dentroRango)

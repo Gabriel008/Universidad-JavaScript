@@ -1,0 +1,16 @@
+//Cap 29 - Sentencia if en JavaScript
+
+/*
+Sentnecia if
+
+    if(condicion_booleana){
+        blocke a ejecutar si es que es verdadera
+    }
+*/
+
+let miNumero=10;
+//Revisar si el numero es positivo
+
+if(miNumero>0){
+    console.log(`Valor positivo: ${miNumero}`);
+}

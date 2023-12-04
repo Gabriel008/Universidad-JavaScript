@@ -1,0 +1,24 @@
+//Cap 31 - Sentencia if - else if - else en JavaScript
+
+/*
+//sintaxis
+
+    if (condicion_booleana) {
+    //Si es verdadero se ejecuta este bloque de codigo
+    } else if (Nueva_condicion_booleana) {
+    //Si es falso y la nueva condicion es verdadera se ejecuta este bloque de codigo
+    } else {
+    //Si todas las condiciones son falsas se ejecuta este bloque de codigo
+    }
+*/
+
+let miNumero = 0;
+//Revisar si el numero es positivo
+
+if (miNumero > 0) {
+  console.log(`Valor positivo: ${miNumero}`);
+} else if (miNumero < 0) {
+  console.log(`Valor negativo ${miNumero}`);
+} else {
+  console.log(`Valor cero ${miNumero}`);
+}
